@@ -1,0 +1,7 @@
+#Thu Feb 09 19:16:42 ICT 2023
+base.1=C\:\\Users\\asus\\AndroidStudioProjects\\uas-pbo\\uas-pbo\\WisataAppE020320097\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out\\classes.dex
+path.1=classes.dex
+base.0=C\:\\Users\\asus\\AndroidStudioProjects\\uas-pbo\\uas-pbo\\WisataAppE020320097\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out\\classes.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex
